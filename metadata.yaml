@@ -1,0 +1,27 @@
+_repo: A-Minniature-ov-Inglish-Orthoggraphy_15901
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Elphinston, James
+    birthdate: 1721
+    deathdate: 1809
+    gutenberg_agent_id: '6367'
+    url: http://www.gutenberg.org/2009/agents/6367
+    wikipedia: http://en.wikipedia.org/wiki/James_Elphinston
+description: ''
+gutenberg_issued: '2005-05-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'English language -- Orthography and spelling -- Early works to 1800'
+title: A Minniature ov Inglish Orthoggraphy
+url: http://www.gutenberg.org/ebooks/15901
